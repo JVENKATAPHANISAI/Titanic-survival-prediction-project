@@ -1,7 +1,7 @@
 # Titanic_survival_prediction_project
 
 
-![Titanic](https://upload.wikimedia.org/wikipedia/commons/f/fd/RMS_Titanic_3.jpg)
+<img src="https://static1.squarespace.com/static/5006453fe4b09ef2252ba068/t/5090b249e4b047ba54dfd258/1351660113175/TItanic-Survival-Infographic.jpg?format=1500w">
 
 ## Overview
 The Titanic Survival Prediction project aims to predict the survival of passengers on the Titanic using machine learning algorithms. This project leverages various features of the Titanic dataset to build a predictive model that can determine the likelihood of a passenger surviving the disaster.
